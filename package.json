@@ -1,6 +1,6 @@
 {
   "name": "dev-zero-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a file full of /dev/zero",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,14 @@
   "keywords": [
     "dev",
     "zero",
+		"/dev/zero",
+		"/dev/null",
     "file",
-    "linux"
+    "linux",
+		"format",
+		"ext2",
+		"ext3",
+		"ext4"
   ],
   "author": "Alex Palchikovskiy",
   "license": "ISC",
