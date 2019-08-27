@@ -1,0 +1,28 @@
+{
+  "name": "dev-zero-file",
+  "version": "1.0.0",
+  "description": "Create a file full of /dev/zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpalchikovskiy/dev-zero-file.git"
+  },
+  "keywords": [
+    "dev",
+    "zero",
+    "file",
+    "linux"
+  ],
+  "author": "Alex Palchikovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpalchikovskiy/dev-zero-file/issues"
+  },
+  "homepage": "https://github.com/alexpalchikovskiy/dev-zero-file#readme",
+  "dependencies": {
+    "node-run-cmd": "^1.0.1"
+  }
+}
